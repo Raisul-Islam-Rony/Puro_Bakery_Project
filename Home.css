@@ -1,0 +1,125 @@
+ /* Navbar container */
+ /* Links inside the navbar */
+ 
+ .navbar a {
+     float: left;
+     font-size: 20px;
+     color: white;
+     text-align: center;
+     padding: 20px;
+     text-decoration: none;
+ }
+ 
+ .navbar button {
+     text-align: center;
+     font-size: 20px;
+ }
+ 
+ .dropdown {
+     float: left;
+     overflow: hidden;
+ }
+ /* Dropdown button */
+ 
+ .dropdown .dropbtn {
+     font-size: 20px;
+     border: none;
+     outline: none;
+     color: white;
+     padding: 20px;
+     background-color: inherit;
+     font-family: inherit;
+     /* Important for vertical align on mobile phones */
+     margin: 0;
+     /* Important for vertical align on mobile phones */
+ }
+ /* Add a red background color to navbar links on hover */
+ 
+ .navbar a:hover,
+ .dropdown:hover .dropbtn {
+     background-color: rgb(173, 173, 235);
+ }
+ /* Dropdown content (hidden by default) */
+ 
+ .dropdown-content {
+     display: none;
+     position: absolute;
+     background-color: #fbf5f5;
+     min-width: 160px;
+     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+     z-index: 1;
+ }
+ /* Links inside the dropdown */
+ 
+ .dropdown-content a {
+     float: none;
+     color: black;
+     padding: 15px;
+     font-size: 15px;
+     text-decoration: none;
+     display: block;
+     text-align: left;
+ }
+ /* Add a grey background color to dropdown links on hover */
+ 
+ .dropdown-content a:hover {
+     background-color: rgb(94, 74, 6);
+ }
+ /* Show the dropdown menu on hover */
+ 
+ .dropdown:hover .dropdown-content {
+     display: block;
+ }
+ 
+ .navbar input[type=text] {
+     float: right;
+     padding: 10px;
+     border: none;
+     font-size: 17px;
+     margin-top: 10px;
+     margin: 10px;
+ }
+ 
+ .home {
+     min-height: 100vh;
+     display: flex;
+     align-items: center;
+     background: url(images/back.png) no-repeat;
+     background-size: cover;
+     background-position: center center;
+ }
+ 
+ .home .homeContent {
+     width: 50%;
+     float: left;
+     text-align: center;
+     padding: 4rem;
+ }
+ 
+ .home .homeContent h2 {
+     font-size: 4rem;
+     font-weight: bolder;
+     margin-bottom: 1rem;
+     line-height: 4rem;
+     color: var(--black);
+     font-family: 'Playfair Display', serif;
+     text-shadow: var(--box-shadow);
+ }
+ 
+ .home .homeContent .home-btn {
+     height: 3rem;
+     padding: 20px;
+ }
+ 
+ .home .homeContent .home-btn button {
+     font-size: 1rem;
+     background-color: rgb(75, 3, 3);
+     color: white;
+     border-radius: .7rem;
+     padding: .7rem 2.4rem;
+     cursor: pointer;
+ }
+ 
+ .home .homeContent .home-btn button:hover {
+     font-size: 1.5rem;
+ }
