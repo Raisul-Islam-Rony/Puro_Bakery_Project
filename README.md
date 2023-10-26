@@ -28,6 +28,46 @@ Fig 4 : Page Showing available cake
 
 Fig 5 : Showing Search Result
 
+![Product_details](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/1eaad31d-c488-4d23-b2ba-7f96c3510219)
+
+Fig 6 : Product Details
+
+![Admin_Info](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/01b4b538-7a24-4b54-b34d-e77aa64e4bc1)
+
+Fig 7 : Admin Information 
+
+![User_Info](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/546e84c9-0515-4054-9ba8-8f7f77fc2ea6)
+
+Fig 8 : User Information
+
+![Add_Product](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/dd32f33b-b0f6-459f-9855-46da54fbd7d9)
+
+Fig 9 : Adding New Products
+
+![Outlet](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/6625ea3b-f18b-4da8-af91-9dd9fff30506)
+
+Fig 10 : Outlets of The Shop
+
+![My_Cart](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/f00c3289-f692-4bf0-814b-5cc8453a2d52)
+
+Fig 11 : User Cart Information
+
+![PaySystem](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/caf67d21-7b7e-42fd-a1ea-b0e77659a386)
+
+Fig 12 : Payment System
+
+![Receipt](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/6d9b2a68-4945-47e7-b2cc-819ea911ede5)
+
+Fig 13 : Receipt 
+
+
+
+
+
+
+
+
+
 
 
 
