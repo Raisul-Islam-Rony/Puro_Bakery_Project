@@ -6,4 +6,4 @@ he/she will receive a discount of 10% in their next buy. After succesfully trans
 share their views on the website/product. Admin can see those views from admin panel, and take steps accordingly, admin can also add/delete/modify any existing product, User doesnot have any
 access to admin panel. Admin operates the whole website on their own.
 
-#Rules
+# Rules
