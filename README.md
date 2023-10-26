@@ -9,7 +9,7 @@ access to admin panel. Admin operates the whole website on their own.
 # Snaps of Website
 
 ![HomePage](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/d97ef942-23d8-4a15-aa9d-96565c4068d3)
-                                                                     Fig 1: Home page 
+                                                                                                                                             Fig 1: Home page 
 
                             
  
