@@ -60,6 +60,11 @@ Fig 12 : Payment System
 
 Fig 13 : Receipt 
 
+![Review](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/1bf17b26-a555-4b14-8bdb-543a5c3c43de)
+
+Fig 14 : User can send their reviews
+
+
 
 
 
