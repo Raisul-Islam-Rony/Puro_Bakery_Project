@@ -10,7 +10,7 @@ access to admin panel. Admin operates the whole website on their own.
 
 ![HomePage](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/d97ef942-23d8-4a15-aa9d-96565c4068d3)
     
-    Fig 1: Home page of the application
+Fig 1: Home page of the application
 
 ![Registration](https://github.com/Raisul-Islam-Rony/Puro_Bakery_Project/assets/70333440/d97e6b0a-130f-4e9a-9b67-d2fbaa2430ed) 
 Fig 2 : Registration field for user registration
